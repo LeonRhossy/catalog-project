@@ -1,0 +1,11 @@
+# Ambiente virtual
+venv/
+
+# Arquivos do sistema
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos do editor
+.vscode/
+.DS_Store
